@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a graphic designer and programming student. 
 <!--
 **lucasantuneso/lucasantuneso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
